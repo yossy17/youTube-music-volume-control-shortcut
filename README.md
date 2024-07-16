@@ -24,4 +24,3 @@
 ## ライセンス
 
 このプロジェクトはMITライセンスの下で公開されています。
-# youTube-music-volume-control-shortcut
