@@ -13,7 +13,7 @@
 // @description:ko      YouTube Music의 볼륨을 변경하는 키보드 단축키 추가
 // @description:ru      Добавьте сочетания клавиш для изменения громкости YouTube Music
 // @description:de      Fügen Sie Tastaturkürzel hinzu, um die Lautstärke von YouTube Music zu ändern
-// @version             1.0.3
+// @version             1.0.4
 // @author              Yos_sy17
 // @match               https://music.youtube.com/*
 // @namespace           http://tampermonkey.net/
@@ -21,8 +21,8 @@
 // @license             MIT
 // @run-at              document-start
 // @grant               none
-// @downloadURL         https://update.greasyfork.org/scripts/500655/youtube-music-volume-control-shortcut-added.user.js
-// @updateURL           https://update.greasyfork.org/scripts/500655/youtube-music-volume-control-shortcut-added.meta.js
+// @downloadURL         https://update.greasyfork.org/scripts/500655/youtube-music-volume-control-shortcut.user.js
+// @updateURL           https://update.greasyfork.org/scripts/500655/youtube-music-volume-control-shortcut.meta.js
 // ==/UserScript==
 
 (function () {

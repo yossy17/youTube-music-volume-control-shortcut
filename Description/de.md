@@ -19,7 +19,7 @@ Dieses Skript fügt Tastenkombinationen für die Lautstärkeregelung in YouTube 
 
 ## Beitrag
 
-Bug-Meldungen und Feature-Vorschläge sind willkommen. Bitte [melden Sie Probleme](https://github.com/yossy17/youTube-music-volume-control-shortcut/issues) oder reichen Sie [Pull Requests ein](https://github.com/yossy17/youTube-music-volume-control-shortcut/pulls) zur Mitarbeit ein.
+Bug-Meldungen und Feature-Vorschläge sind willkommen. Bitte [melden Sie Probleme](https://github.com/yossy17/youtube-music-volume-control-shortcut/issues) oder reichen Sie [Pull Requests ein](https://github.com/yossy17/youtube-music-volume-control-shortcut/pulls) zur Mitarbeit ein.
 
 ## Lizenz
 

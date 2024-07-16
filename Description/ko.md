@@ -19,7 +19,7 @@
 
 ## 기여하기
 
-버그 리포트나 기능 제안을 환영합니다. [이슈를 보고](https://github.com/yossy17/youTube-music-volume-control-shortcut/issues)하거나 [풀 리퀘스트를 제출](https://github.com/yossy17/youTube-music-volume-control-shortcut/pulls)하여 기여해 주세요.
+버그 리포트나 기능 제안을 환영합니다. [이슈를 보고](https://github.com/yossy17/youtube-music-volume-control-shortcut/issues)하거나 [풀 리퀘스트를 제출](https://github.com/yossy17/youtube-music-volume-control-shortcut/pulls)하여 기여해 주세요.
 
 ## 라이센스
 
