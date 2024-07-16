@@ -19,7 +19,7 @@ This script adds volume adjustment shortcuts for YouTube Music.
 
 ## Contributing
 
-Bug reports and feature suggestions are welcome. Please [report issues](https://github.com/yossy17/YouTube_Music_volume_control_shortcut_added/issues) or submit [pull requests](https://github.com/yossy17/YouTube_Music_volume_control_shortcut_added/pulls).
+Bug reports and feature suggestions are welcome. Please [report issues](https://github.com/yossy17/youTube-music-volume-control-shortcut/issues) or submit [pull requests](https://github.com/yossy17/youTube-music-volume-control-shortcut/pulls).
 
 ## License
 

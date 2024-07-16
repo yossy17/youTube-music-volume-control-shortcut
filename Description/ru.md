@@ -19,7 +19,7 @@
 
 ## Вклад
 
-Мы приветствуем сообщения о найденных ошибках и предложения функционала. Пожалуйста, [сообщайте о проблемах](https://github.com/yossy17/YouTube_Music_volume_control_shortcut_added/issues) или предлагайте [запросы на включение изменений](https://github.com/yossy17/YouTube_Music_volume_control_shortcut_added/pulls).
+Мы приветствуем сообщения о найденных ошибках и предложения функционала. Пожалуйста, [сообщайте о проблемах](https://github.com/yossy17/youTube-music-volume-control-shortcut/issues) или предлагайте [запросы на включение изменений](https://github.com/yossy17/youTube-music-volume-control-shortcut/pulls).
 
 ## Лицензия
 

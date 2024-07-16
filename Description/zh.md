@@ -19,7 +19,7 @@
 
 ## 贡献
 
-欢迎报告 bug 和提出功能建议。请通过 [报告问题](https://github.com/yossy17/YouTube_Music_volume_control_shortcut_added/issues) 或提交 [拉取请求](https://github.com/yossy17/YouTube_Music_volume_control_shortcut_added/pulls) 参与贡献。
+欢迎报告 bug 和提出功能建议。请通过 [报告问题](https://github.com/yossy17/youTube-music-volume-control-shortcut/issues) 或提交 [拉取请求](https://github.com/yossy17/youTube-music-volume-control-shortcut/pulls) 参与贡献。
 
 ## 许可证
 
