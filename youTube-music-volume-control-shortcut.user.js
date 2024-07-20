@@ -13,7 +13,7 @@
 // @description:ko      YouTube Music의 볼륨을 변경하는 키보드 단축키 추가
 // @description:ru      Добавьте сочетания клавиш для изменения громкости YouTube Music
 // @description:de      Fügen Sie Tastaturkürzel hinzu, um die Lautstärke von YouTube Music zu ändern
-// @version             1.0.4
+// @version             1.0.5
 // @author              Yos_sy17
 // @match               https://music.youtube.com/*
 // @namespace           http://tampermonkey.net/
@@ -32,7 +32,7 @@
   const TRANSLATIONS = {
     en: { volumeChanged: "Volume" },
     ja: { volumeChanged: "音量" },
-    "zh-CN": { volumeChanged: "音量" },
+    zh: { volumeChanged: "音量" },
     ko: { volumeChanged: "볼륨" },
     ru: { volumeChanged: "Громкость" },
     de: { volumeChanged: "Lautstärke" },
